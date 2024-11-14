@@ -1,4 +1,5 @@
 # Pairing Bluetooth Devices in Dual Boot with Linux Ubuntu and Windows 10/11
+Currently shamelessly coppied from another github account - I want to modify for my own needs
 
 ## Introduction
 This guide provides updated instructions for pairing Bluetooth devices (such as keyboards or mice) in a dual-boot environment with Linux Ubuntu and Windows 10/11, incorporating community feedback and suggestions.
@@ -73,9 +74,16 @@ This guide provides updated instructions for pairing Bluetooth devices (such as 
 Special thanks to the community members who provided valuable insights and suggestions, including nnnnicholas, kna0085, lguangyu, KeyofBlueS, bjoern-vh, Nielius, IgorRodriguez, princeofguilty, and others.
 
 Will wnant to refer to ...
+
 https://gist.github.com/madkoding/f3cfd3742546d5c99131fd19ca267fd4
+
 https://unix.stackexchange.com/questions/255509/bluetooth-pairing-on-dual-boot-of-windows-linux-mint-ubuntu-stop-having-to-p
+
 https://unix.stackexchange.com/questions/568521/simpler-method-of-pairing-bluetooth-devices-for-both-windows-linux
+
 https://bdebyl.net/post/bt_win_linux/
+
 https://linuxize.com/post/how-to-mount-and-unmount-file-systems-in-linux/
+
 https://www.tecmint.com/mount-windows-partition-in-ubuntu/
+
