@@ -87,3 +87,5 @@ https://linuxize.com/post/how-to-mount-and-unmount-file-systems-in-linux/
 
 https://www.tecmint.com/mount-windows-partition-in-ubuntu/
 
+This might be instuctions for a logitech device - still having issues with the mouse
+https://gist.github.com/tVienonen/fad5cb68e6449f6c4804e276094516e3
